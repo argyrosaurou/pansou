@@ -2,4 +2,7 @@ import time
 for i in range(10,0,-1):
     print(i)
     time.sleep(1)
-print("时间到!")    
+print("时间到!")   
+
+print("hello")
+print("hello")
